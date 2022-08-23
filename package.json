@@ -1,0 +1,25 @@
+{
+  "name": "blankfactor_jocselyn",
+  "version": "1.0.0",
+  "description": "This code is for an automation test for Blank Factor. This code is in Cypress/js and it has all the necessary to be executed with a few steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "BF"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JossZC/BlankFactor_Jocselyn.git"
+  },
+  "keywords": [
+    "Blan"
+  ],
+  "author": "Jocselyn Zumbado Ch.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JossZC/BlankFactor_Jocselyn/issues"
+  },
+  "homepage": "https://github.com/JossZC/BlankFactor_Jocselyn#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}

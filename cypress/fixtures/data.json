@@ -1,0 +1,12 @@
+{
+    "baseurl" : "https://blankfactor.com/",
+    "blogTitle" : "Why Fintech in Latin America Is Having a Boom",
+    "by": "Sofia Gonzalez",
+    "blogURL": "/insights/blog/fintech-in-latin-america/",
+    "postCategory": "Fintech",
+    "postImage": "https://blankfactor.com/wp-content/uploads/2021/08/jonas-leupe-0IVop5v4MMU-unsplash.jpg",
+    "invalidEmailTest": "invalidtest@test.com",
+    "invalidEmailErrorMessage": "Please enter a valid email address.",
+    "emailTest": "test@blankfactor.com",
+    "subscribeConfirmationMessage": "Thank you for subscribing! Stay tuned."
+  }
