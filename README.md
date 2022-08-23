@@ -21,7 +21,7 @@ Clone this repo and navegate into it.
 * cd BlankFactor_Jocselyn.git
 
 You need to run the following command to install dependencies.
-* nom install
+* npm install
 
 ## Usage
 Open the Cypress panel with:
